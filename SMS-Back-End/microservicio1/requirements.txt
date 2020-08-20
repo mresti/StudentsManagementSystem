@@ -5,4 +5,4 @@
 # en el subdirectorio `lib/` .
 #
 # Note: The `lib` directory is added to `sys.path` by `appengine_config.py`.
-Flask==0.10
+Flask==1.0
